@@ -1,20 +1,28 @@
-h1, h2{
+h1,
+h2 {
     color: #16a313;
 }
-.footer-background{
-    background-color: #16a313 ;
+
+.footer-background {
+    background-color: #16a313;
 }
 
-h5{
-    color:white;
+h5 {
+    color: white !important;
 }
 
 a {
-    margin: 1em;
+
     cursor: pointer;
+
 }
+
 .download {
     text-decoration: underline;
-    font-size: 16pt;
+    font-size: 1.3rem;
     color: #16a313;
+}
+
+.social-media-button {
+    margin: 1em;
 }
