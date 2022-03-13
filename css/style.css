@@ -1,3 +1,20 @@
 h1, h2{
     color: #16a313;
 }
+.footer-background{
+    background-color: #16a313 ;
+}
+
+h5{
+    color:white;
+}
+
+a {
+    margin: 1em;
+    cursor: pointer;
+}
+.download {
+    text-decoration: underline;
+    font-size: 26pt;
+    color: #16a313;
+}
