@@ -26,3 +26,15 @@ a {
 .social-media-button {
     margin: 1em;
 }
+
+.subsection {
+    font-size: 1.3rem;
+    color: #16a313;
+}
+
+.dicitura {
+    color: gray;
+    font-style: italic;
+    text-align: center;
+
+}
