@@ -38,3 +38,8 @@ a {
     text-align: center;
 
 }
+
+h5#iban,
+h5#iban a {
+    color: white!important;
+}
